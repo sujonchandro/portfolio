@@ -3,6 +3,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 
 .main-color{
@@ -39,3 +40,20 @@ nav a{
     color: #474747;
 }
 
+/* header Style */
+header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic{
+    width: 5oopx;
+
+}
+.banner content{
+    
+}
